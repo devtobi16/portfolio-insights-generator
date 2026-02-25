@@ -1,5 +1,3 @@
-# portfolio-insights-generator
-
 # Portfolio Insights Generator
 
 Processes financial transaction data from a CSV, runs analytics on it, and uses OpenAI to generate insights about trading patterns.
